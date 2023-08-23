@@ -204,7 +204,7 @@ font-size: 100%;
 .col-2 h1{
     flex-basis: 65%;
     font-family:'Josefin Slab',serif;
-    font-size: rem;
+    font-size: 4rem;
     color: #fff;
     width: 25%;
     letter-spacing: 0.1rem;
